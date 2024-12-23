@@ -1,0 +1,441 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:900,700,600,800,500,400|Poppins:900,600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/675e59172d7183a40f9b78e1.675e59182d7183a40f9b78e4.KwjBnoH.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.listeners-active,
+.listeners-active * {
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.listeners-active-click,
+.listeners-active-click * {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.group-1244831269 {
+  height: 858.34px;
+  position: relative;
+  width: 479.63px;
+}
+
+.group-1244831270 {
+  height: 148.64px;
+  position: relative;
+  width: 359.55px;
+}
+
+.group-1000000919 {
+  align-items: flex-start;
+  display: flex;
+  height: 1482px;
+  justify-content: flex-end;
+  margin-left: -301px;
+  margin-top: 1118px;
+  min-width: 2031px;
+  z-index: 1;
+}
+
+.frame-37361 {
+  align-items: flex-start;
+  display: flex;
+  height: 1317px;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.rectangle-4342 {
+  background-color: var(--neutral-colors--100);
+  height: 1148px;
+  left: 1273px;
+  position: absolute;
+  top: 1461px;
+  width: 1728px;
+}
+
+.blob {
+  align-items: flex-start;
+  display: flex;
+  height: 4648px;
+  left: 0;
+  min-width: 4648px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  transform: rotate(90.00deg);
+}
+
+.ellipse-container {
+  height: 2769px;
+  left: 1230px;
+  position: absolute;
+  top: 1276px;
+  width: 2606px;
+}
+
+.ellipse-2 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 922.84px;
+  height: 1846px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 1846px;
+}
+
+.ellipse-4 {
+  background-color: var(--primarycolor-2);
+  border-radius: 922.84px;
+  height: 1846px;
+  left: 444px;
+  position: absolute;
+  top: 923px;
+  width: 1846px;
+}
+
+.ellipse-3 {
+  background-color: var(--primarycolor-3);
+  border-radius: 922.84px;
+  height: 1846px;
+  left: 760px;
+  position: absolute;
+  top: 0;
+  width: 1846px;
+}
+
+.ellipse-5 {
+  -webkit-backdrop-filter: blur(826.91px) brightness(100%);
+  backdrop-filter: blur(826.91px) brightness(100%);
+  background-color: var(--otherwhite-79);
+  border-radius: 2324px;
+  height: 4648px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4648px;
+}
+
+.group-1244830903 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 829px;
+}
+
+.at-a-emisso-de-pre {
+  left: 120px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.body-shared {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.shape-3 {
+  -webkit-backdrop-filter: blur(8.86px) brightness(100%);
+  backdrop-filter: blur(8.86px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.9) 97.92%);
+  border: 0.33px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgb(255, 255, 255)) 1;
+  border-radius: 53.17px;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  transform: rotate(90.00deg);
+  width: 5px;
+}
+
+.transcrio-ao-vivo-de-consultas {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.dispense-a-necessida {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 4.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 467px;
+}
+
+.telemedicina-integrada {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.concentre-seus-atend {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 4.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 472px;
+}
+
+.ellipse-17 {
+  height: 44px;
+  left: 19px;
+  position: absolute;
+  top: 28px;
+  width: 40px;
+}
+
+.rectangle-16 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.union {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  transform: rotate(-180deg);
+  width: 50px;
+}
+
+.sistema-unificado-de {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.aqui-voc-no-precis {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 2.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 472px;
+}
+
+.group-1244830911 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  height: 116px;
+  left: 106px;
+  min-width: 617px;
+  position: absolute;
+  top: 675px;
+}
+
+.ai-1-1 {
+  height: 42px;
+  left: 44px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.teacher {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 70px;
+}
+
+.ia-treinada-em-repositrios-mdicos {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.agora-voc-pode-pesq {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 2.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 472px;
+}
+
+.group-1244830912 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  height: 116px;
+  left: 106px;
+  min-width: 617px;
+  position: absolute;
+  top: 819px;
+}
+
+.body-1 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.ellipse-3611 {
+  height: 21px;
+  left: 41px;
+  position: absolute;
+  top: 28px;
+  width: 21px;
+}
+
+.comp {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.coleta-de-dados-ativ {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 2.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 472px;
+}
+
+.respaldo-jurdico-a {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-right: 2.0px;
+  min-height: 52px;
+  text-align: justify;
+  width: 472px;
+}
+
+.group-1244831257 {
+  height: 693px;
+  left: -22px;
+  position: absolute;
+  top: 0;
+  width: 469px;
+}
+
+.group-1244831267 {
+  align-items: flex-start;
+  display: flex;
+  height: 693px;
+  justify-content: flex-end;
+  min-width: 469px;
+  padding: 0 17.1px;
+}
+
+.x10650312 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.rectangle-39898 {
+  background-color: var(--titan-white);
+  border-radius: 13.24px;
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 2px;
+  width: 63px;
+}
+
+.background {
+  height: 1119px;
+  width: 1728px;
+}
+
+.overlap-group7 {
+  height: 155px;
+  position: relative;
+  width: 1765px;
+}
+
+.group-container-3 {
+  align-self: flex-end;
+  height: 73px;
+  margin-bottom: 0;
+  position: relative;
+  width: 916px;
+}
