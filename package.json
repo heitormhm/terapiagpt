@@ -1,0 +1,14 @@
+{
+  "name": "anima-website",
+  "version": "1.0.0",
+  "description": "Optimized website",
+  "scripts": {
+    "optimize-images": "node optimize-images.js",
+    "start": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "sharp": "^0.32.6",
+    "serve": "^14.2.1"
+  }
+}
