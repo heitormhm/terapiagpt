@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1404, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/home-m.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="home-m" />
+    <div class="home-m screen">
+      <div class="frame-1244831314">
+        <div class="card"><img class="image" src="img/image-13.png" alt="Image" style="top: 2px; left: 0px;"></div>
+      </div>
+      <div class="text-input animate-enter15 animate-enter15"></div>
+      <div class="horizontal-container" style="left: -138px; top: 0px;">
+        <div class="property-1-default">
+          <div class="horizontal-container-1 horizontal-container-3">
+            <div class="horizontal-container-2 horizontal-container-3" style="width: auto; min-width: 100%; overflow: visible;">
+              <div class="group-1244831301">
+                <img class="vector animate-enter27 animate-enter27" src="img/vector-26@2x.png" alt="Vector">
+                <div class="group-1244831261 animate-enter22 animate-enter22">
+                  <div class="primary-btn">
+                    <div class="container">
+                      <div class="button-text animate-enter21 dmsans-bold-bunting-22-9px animate-enter21" onclick="" onmouseover="">
+                        Planos
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="group-1244831262 animate-enter24 animate-enter24">
+                  <div class="primary-btn">
+                    <div class="button">
+                      <div class="button-text-1 animate-enter23 dmsans-bold-bunting-22-9px animate-enter23" onclick="" onmouseover="">
+                        Ferramentas
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="group-1244831263 animate-enter26 animate-enter26">
+                  <div class="primary-btn">
+                    <div class="button-1">
+                      <div class="button-text-2 animate-enter25 dmsans-bold-bunting-22-9px animate-enter25" onclick="" onmouseover="">
+                        Novidades
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="group-1244831265 animate-enter29 animate-enter29">
+                  <div class="button-2">
+                    <div class="overlap-group">
+                      <div class="rectangle-39897 animate-enter28 animate-enter28" style="left: 2px; top: 0px;"></div>
+                      <div class="button-text-3 dmsans-bold-white-22-9px" onclick="" onmouseover="">Fazer Login</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="group-1244831300" style="left: 81px; top: 511px;">
+        <div class="group-1244831256 animate-enter19 animate-enter19">
+          <h1 class="button-text-4 animate-enter16 animate-enter16">ESTAMOS VIVENDO EM</h1>
+          <div class="paragraph-container animate-enter17 animate-enter17">
+            <p class="button-text-5">Nossa Sáude Mental está em</p>
+            <img class="button-text-6" src="img/button-text-7@2x.png" alt="Button Text">
+          </div>
+          <div class="button-text-7 animate-enter18 animate-enter18">TEMPOS COMPLICADOS</div>
+        </div>
+        <div class="group-1244831266" onclick="" onmouseover="">
+          <div class="overlap-group-1">
+            <div class="rectangle-39897-1 animate-enter20 animate-enter20"></div>
+            <div class="descubra-nossa-soluo valign-text-middle">Descubra nossa Solução</div>
+          </div>
+        </div>
+        <div class="stressed-person-container animate-enter21">
+        </div>
+      </div>
+      <div class="group-1244831255">
+        <div class="property-1-default-1 animate-enter14 animate-enter14">
+          <div class="overlap-group1">
+            <div class="card-1" style="left: 304px; top: 81px;"></div>
+            <div class="image-container" style="left: -8px; top: -24px;">
+              <img class="image-2" src="img/image-19@2x.png" alt="Image">
+              <img class="image-3" src="img/image-2.png" alt="Image" style="left: 43px; top: 543px;">
+              <img class="image-4" src="img/image-21.png" alt="Image" style="left: 68px; top: 11px;">
+              <img class="stressed-person-image" src="img/image-5.png" alt="Pessoa demonstrando preocupação" style="width: 782px; height: auto; position: absolute; left: 60%; transform: translateX(-50%); top: 50px;">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      function ShowOnScroll() {
+        this.toShow = [];
+        this.nextEventY = undefined;
+      }
+
+      ShowOnScroll.prototype.show = function (e) {
+        e.style.display = "";
+      };
+
+      ShowOnScroll.prototype.hide = function (e) {
+        e.style.display = "none";
+      };
+
+      ShowOnScroll.prototype.getTop = function (e) {
+        if (e.Top != undefined && e.Top != 0) {
+          return e.Top;
+        }
+        var top = 0;
+        var iter = e;
+        do {
+          top += iter.offsetTop || 0;
+          iter = iter.offsetParent;
+        } while (iter);
+        e.Top = top;
+        return top;
+      };
+
+      ShowOnScroll.prototype.onScroll = function () {
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        if (this.nextEventY == undefined || this.nextEventY > screenBottom) {
+          return;
+        }
+        this.nextEventY = undefined;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            this.show(e);
+            this.toShow.shift();
+            i--;
+          } else {
+            this.nextEventY = top;
+            break;
+          }
+        }
+      };
+
+      ShowOnScroll.prototype.resetScrolling = function () {
+        // Clear state
+        var screenBottom = window.pageYOffset + window.innerHeight;
+        for (var i = 0; i < this.toShow.length; i++) {
+          var e = this.toShow[i];
+          this.show(e);
+        }
+        this.toShow = [];
+        this.nextEventY == undefined;
+
+        // Collect items
+        var itemsToShowOnScroll = Array.prototype.slice.call(document.getElementsByTagName("*"));
+        itemsToShowOnScroll = itemsToShowOnScroll.filter(function (e) {
+          return e.getAttribute("show-on-scroll") != undefined;
+        });
+        var getTop = this.getTop;
+        itemsToShowOnScroll.sort(function (a, b) {
+          return getTop(a) - getTop(b);
+        });
+        for (var i = 0; i < itemsToShowOnScroll.length; i++) {
+          var e = itemsToShowOnScroll[i];
+          var top = this.getTop(e);
+          if (top < screenBottom) {
+            continue;
+          }
+          this.toShow.push(e);
+          this.hide(e);
+          this.nextEventY = this.nextEventY != undefined ? this.nextEventY : top;
+        }
+      };
+
+      ShowOnScroll.prototype.handleEvent = function (e) {
+        switch (e.type) {
+          case "scroll":
+            this.onScroll();
+            break;
+          case "resize":
+            this.resetScrolling();
+            break;
+        }
+      };
+
+      ShowOnScroll.prototype.init = function () {
+        this.resetScrolling();
+        window.addEventListener("scroll", this);
+        window.addEventListener("resize", this);
+      };
+
+      // After anima-src
+      setTimeout(function () {
+        var instShowOnScroll = new ShowOnScroll();
+        instShowOnScroll.init();
+      }, 250);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,3754 @@
+/* screen - frame-1244831321 */
+
+.frame-1244831321 {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  display: flex;
+  overflow: hidden;
+  width: 2541px;
+}
+
+.frame-1244831321 .overlap-group9 {
+  height: 901px;
+  margin-left: -5px;
+  position: relative;
+  width: 2546px;
+}
+
+.frame-1244831321 .card-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: -1167px;
+  width: 2557px;
+}
+
+.frame-1244831321 .image-2 {
+  align-self: stretch;
+  height: 901px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1244831321 .text-input-3 {
+  background-color: var(--neutral-colors--100);
+  filter: blur(10px);
+  height: 175px;
+  left: 3px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 2543px;
+}
+
+.frame-1244831321 .text-input-3.bp4-animate-enter55 {
+  animation: bp4-animate-enter55-frames 1.00s ease-in 0.00s 1 normal forwards;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter55-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.frame-1244831321 .horizontal-container-3 {
+  align-items: flex-start;
+  border: 1px dashed;
+  border-color: var(--medium-purple);
+  border-radius: 5px;
+  display: flex;
+  height: 175px;
+  left: 5px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 2541px;
+}
+
+.frame-1244831321 .property-1-default-1 {
+  align-items: center;
+  display: flex;
+  height: 175px;
+  justify-content: flex-end;
+  min-width: 2541px;
+  padding: 35.4px 318.0px;
+}
+
+.frame-1244831321 .vector-19 {
+  align-self: flex-start;
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 90px;
+  opacity: 0;
+  width: 357px;
+}
+
+.frame-1244831321 .vector-19.bp4-animate-enter62 {
+  animation: bp4-animate-enter62-frames 1.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter62-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.frame-1244831321 .group-1244831261-3 {
+  height: 87px;
+  margin-bottom: 5.86px;
+  margin-left: 86px;
+  opacity: 0;
+  width: 297px;
+}
+
+.frame-1244831321 .group-1244831261-3.bp4-animate-enter57 {
+  animation: bp4-animate-enter57-frames 1.00s ease-in-out 1.20s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .primary-btn-9 {
+  padding: 26.3px 104.0px;
+}
+
+.frame-1244831321 .button-text-12 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 31px;
+  min-width: 88px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .button-text-12.bp4-animate-enter56 {
+  animation: bp4-animate-enter56-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .button-text-12:hover {
+  color: #FF4682
+}
+
+.frame-1244831321 .group-1244831262-3 {
+  height: 87px;
+  margin-bottom: 5.86px;
+  margin-left: 86px;
+  opacity: 0;
+  width: 297px;
+}
+
+.frame-1244831321 .group-1244831262-3.bp4-animate-enter59 {
+  animation: bp4-animate-enter59-frames 1.00s ease-in-out 1.40s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .primary-btn-10 {
+  padding: 26.3px 63.0px;
+}
+
+.frame-1244831321 .button-text-13 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 31px;
+  min-width: 170px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .button-text-13.bp4-animate-enter58 {
+  animation: bp4-animate-enter58-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .button-text-13:hover {
+  color: #FF4682
+}
+
+.frame-1244831321 .group-1244831263-3 {
+  height: 88px;
+  margin-bottom: 4.8px;
+  margin-left: 78px;
+  opacity: 0;
+  width: 314px;
+}
+
+.frame-1244831321 .group-1244831263-3.bp4-animate-enter61 {
+  animation: bp4-animate-enter61-frames 1.00s ease-in-out 1.60s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .overlap-group-11 {
+  height: 88px;
+  position: relative;
+}
+
+.frame-1244831321 .rectangle-39898-3 {
+  background-color: var(--titan-white);
+  border-radius: 41.33px;
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 314px;
+}
+
+.frame-1244831321 .primary-btn-11 {
+  left: 8px;
+  padding: 26.3px 77.0px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1244831321 .button-text-14 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 31px;
+  min-width: 142px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .button-text-14.bp4-animate-enter60 {
+  animation: bp4-animate-enter60-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .button-text-14:hover {
+  color: #FF4682
+}
+
+.frame-1244831321 .group-1244831265-3 {
+  cursor: pointer;
+  height: 86px;
+  margin-bottom: 8.17px;
+  margin-left: 53px;
+  opacity: 0;
+  width: 323px;
+}
+
+.frame-1244831321 .group-1244831265-3.bp4-animate-enter64 {
+  animation: bp4-animate-enter64-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .overlap-group1-9 {
+  border-radius: 142px;
+  height: 87px;
+  left: -2px;
+  position: relative;
+  top: 1px;
+  width: 326px;
+}
+
+.frame-1244831321 .rectangle-39897-3 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 142px;
+  cursor: pointer;
+  height: 87px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 326px;
+}
+
+.frame-1244831321 .rectangle-39897-3.bp4-animate-enter63 {
+  animation: bp4-animate-enter63-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter63-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.frame-1244831321 .rectangle-39897-3:hover {
+  background-color: #FF4682
+}
+
+.frame-1244831321 .button-text-15 {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .group-container-6 {
+  height: 701px;
+  left: 586px;
+  position: absolute;
+  top: 185px;
+  width: 1452px;
+}
+
+.frame-1244831321 .group-1244831331 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1452px;
+}
+
+.frame-1244831321 .group-1244831330 {
+  height: 700.51px;
+  position: relative;
+  width: 1452px;
+}
+
+.frame-1244831321 .group-1244831309 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 701px;
+}
+
+.frame-1244831321 .group-1244831295-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 90.6px;
+  min-height: 76px;
+  padding: 0 0.0px;
+  width: 867px;
+}
+
+.frame-1244831321 .fique-em-dia-com-nossas-atualizaes-3 {
+  color: var(--primary-colorscolor-1);
+  font-family: var(--font-family-dm_sans);
+  font-size: 23.2px;
+  font-weight: 900;
+  letter-spacing: 2.32px;
+  line-height: Truepx;
+  margin-right: 21.12px;
+  min-height: 26px;
+  min-width: 584px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .insira-seu-e-mail-e-3 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 35.5px;
+  font-weight: 700;
+  letter-spacing: 3.09px;
+  line-height: Truepx;
+  margin-right: 4.0px;
+  min-height: 44px;
+  min-width: 863px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .overlap-group6-2 {
+  height: 529px;
+  margin-top: 9px;
+  position: relative;
+  width: 1452px;
+}
+
+.frame-1244831321 .rectangle-10-2 {
+  -webkit-backdrop-filter: blur(23.37px) brightness(100%);
+  backdrop-filter: blur(23.37px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.36) 0%, rgba(196, 196, 196, 0.06) 100%);
+  border: 2.34px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 249.82, 203.16, 0.76) 57.29%, rgba(255, 57.38, 57.38, 0.1) 71.88%, rgba(255, 255, 255, 0.85) 100%) 1;
+  border-radius: 32.17px;
+  height: 464px;
+  left: 189px;
+  position: absolute;
+  top: 24px;
+  width: 1074px;
+}
+
+.frame-1244831321 .clipboard-2 {
+  height: 261px;
+  left: 1191px;
+  position: absolute;
+  top: 268px;
+  width: 261px;
+}
+
+.frame-1244831321 .ativo-2-1-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 522px;
+  left: 381px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.frame-1244831321 .group-container-5 {
+  height: 522px;
+  margin-top: 0;
+  position: relative;
+  width: 259px;
+}
+
+.frame-1244831321 .overlap-group1-8 {
+  height: 522px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.frame-1244831321 .vector-14 {
+  height: 522px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.frame-1244831321 .vector-15 {
+  height: 520px;
+  left: 3px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 1px;
+  width: 252px;
+}
+
+.frame-1244831321 .vector-16 {
+  height: 514px;
+  left: 7px;
+  position: absolute;
+  top: 4px;
+  width: 246px;
+}
+
+.frame-1244831321 .group-9 {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 259px;
+}
+
+.frame-1244831321 .group-10 {
+  align-items: flex-end;
+  background-image: url(../img/vector-78.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  left: 100px;
+  min-width: 57px;
+  padding: 4.7px 7.0px;
+  position: absolute;
+  top: 20px;
+}
+
+.frame-1244831321 .group-11 {
+  align-items: flex-end;
+  background-image: url(../img/vector-79.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 7px;
+}
+
+.frame-1244831321 .overlap-group-9 {
+  background-image: url(../img/rectangle-1@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  margin-bottom: -0.22px;
+  position: relative;
+  width: 7px;
+}
+
+.frame-1244831321 .vector-17 {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.frame-1244831321 .camera-3 {
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.frame-1244831321 .vector-18 {
+  background-blend-mode: screen;
+  height: 1px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.frame-1244831321 .group-1244831252-2 {
+  height: 498px;
+  left: 15px;
+  position: absolute;
+  top: 12px;
+  width: 230px;
+}
+
+.frame-1244831321 .ativo-2-2-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 522px;
+  left: 774px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.frame-1244831321 .group-12 {
+  align-items: flex-end;
+  background-image: url(../img/vector-85.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  left: 100px;
+  min-width: 57px;
+  padding: 4.7px 7.0px;
+  position: absolute;
+  top: 20px;
+}
+
+.frame-1244831321 .group-13 {
+  align-items: flex-end;
+  background-image: url(../img/vector-86.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 7px;
+}
+
+.frame-1244831321 .group-container-7 {
+  border-radius: 20.68px;
+  height: 296px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 236px;
+}
+
+.frame-1244831321 .overlap-group-12 {
+  border-radius: 20.68px;
+  height: 296px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.frame-1244831321 .shadow-10 {
+  border-radius: 19.35px;
+  box-shadow: 0px 28.1px 71.47px #1f248917;
+  height: 277px;
+  left: 8px;
+  top: 11px;
+  width: 220px;
+}
+
+.frame-1244831321 .rectangle-1310-2 {
+  background-color: var(--neutral-colors--100);
+  border: 0.72px solid;
+  border-color: var(--neutral300);
+  border-radius: 20.68px;
+  height: 296px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 236px;
+}
+
+.frame-1244831321 .group-39177-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 21px;
+  min-height: 217px;
+  position: absolute;
+  top: 40px;
+  width: 193px;
+}
+
+.frame-1244831321 .rectangle-1283-8 {
+  background-color: var(--neutral500);
+  border-radius: 24.27px;
+  height: 12px;
+  margin-left: 0;
+  width: 91px;
+}
+
+.frame-1244831321 .group-39176-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 13px;
+  margin-left: 0;
+  margin-top: 24px;
+  min-width: 193px;
+}
+
+.frame-1244831321 .rectangle-4434-2 {
+  align-self: flex-start;
+  background-color: var(--mischka);
+  border-radius: 21.75px;
+  height: 11px;
+  width: 29px;
+}
+
+.frame-1244831321 .rectangle-443-2 {
+  background-color: var(--mischka);
+  border-radius: 21.75px;
+  height: 11px;
+  margin-bottom: 0;
+  width: 29px;
+}
+
+.frame-1244831321 .group-39175-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-right: 0;
+  margin-top: 21px;
+  min-height: 149px;
+  width: 190px;
+}
+
+.frame-1244831321 .group-39168 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  min-width: 190px;
+}
+
+.frame-1244831321 .rectangle-4428-2 {
+  background-color: var(--neutral500);
+  border-radius: 4.35px;
+  height: 26px;
+  opacity: 0.15;
+  width: 26px;
+}
+
+.frame-1244831321 .rectangle-44-3 {
+  background-color: var(--neutral500);
+  border-radius: 4.35px;
+  height: 26px;
+  margin-top: 0;
+  opacity: 0.15;
+  width: 26px;
+}
+
+.frame-1244831321 .group-391-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  margin-left: 0;
+  min-width: 190px;
+}
+
+.frame-1244831321 .group-39174-2 {
+  align-items: flex-start;
+  background-color: var(--red);
+  border-radius: 4.35px;
+  box-shadow: 0px 2.9px 8.7px #4939ff29;
+  display: flex;
+  margin-top: 0;
+  min-width: 26px;
+}
+
+.frame-1244831321 .rectangle-4433-2 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 4.35px;
+  height: 26px;
+  width: 26px;
+}
+
+.frame-1244831321 .group-1000000918-2 {
+  height: 153px;
+  left: 137px;
+  position: absolute;
+  top: 363px;
+  width: 229px;
+}
+
+.frame-1244831321 .overlap-group5-2 {
+  border-radius: 15.06px;
+  height: 252px;
+  left: 1086px;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.frame-1244831321 .shadow-11 {
+  border-radius: 19.45px;
+  box-shadow: 0px 28.23px 71.82px #1f248924;
+  height: 235px;
+  left: 132px;
+  top: 8px;
+  width: 221px;
+}
+
+.frame-1244831321 .rectangle-1272-2 {
+  background-color: var(--neutral-colors--100);
+  border-radius: 15.06px;
+  height: 252px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 362px;
+}
+
+.frame-1244831321 .group-39148-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 20px;
+  min-height: 212px;
+  position: absolute;
+  top: 20px;
+  width: 322px;
+}
+
+.frame-1244831321 .overlap-group-10 {
+  border-radius: 10.2px;
+  height: 65px;
+  position: relative;
+  width: 322px;
+}
+
+.frame-1244831321 .shadow-12 {
+  border-radius: 7.06px;
+  box-shadow: 0px 2.81px 7.79px #1f248914;
+  height: 59px;
+  left: 126px;
+  top: 3px;
+  width: 189px;
+}
+
+.frame-1244831321 .rectangle-1314-4 {
+  height: 65px;
+}
+
+.frame-1244831321 .group-35573-2 {
+  top: 12px;
+}
+
+.frame-1244831321 .avatar-sophie-moore-circle-small-6 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952-3.svg);
+  height: 36px;
+  left: 17px;
+  position: absolute;
+  top: 13px;
+}
+
+.frame-1244831321 .mask-group-4 {
+  margin-bottom: 0;
+}
+
+.frame-1244831321 .overlap-group1-10 {
+  border-radius: 10.2px;
+  height: 66px;
+  position: relative;
+  width: 322px;
+}
+
+.frame-1244831321 .shadow-9 {
+  border-radius: 7.06px;
+  box-shadow: 0px 3.9px 7.26px #1f248914;
+  height: 59px;
+  left: 126px;
+  top: 3px;
+  width: 189px;
+}
+
+.frame-1244831321 .rectangle-1314-5 {
+  height: 66px;
+}
+
+.frame-1244831321 .group-35573-3 {
+  top: 13px;
+}
+
+.frame-1244831321 .group-4194-6 {
+  min-width: 231px;
+}
+
+.frame-1244831321 .avatar-sophie-moore-circle-small-7 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-952-4.svg);
+}
+
+.frame-1244831321 .group-4192-6 {
+  align-self: center;
+  gap: 6px;
+  margin-bottom: 0.93px;
+  width: 188px;
+}
+
+.frame-1244831321 .rectangle-1283-9 {
+  background-color: var(--neutral500);
+  border-radius: 18.18px;
+  height: 6px;
+  width: 188px;
+}
+
+.frame-1244831321 .rectangle-1284-6 {
+  height: 5px;
+  width: 123px;
+}
+
+.frame-1244831321 .group-4194-7 {
+  min-width: 170px;
+}
+
+.frame-1244831321 .avatar-sophie-moore-circle-small-8 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952-5.svg);
+}
+
+.frame-1244831321 .group-4192-7 {
+  align-self: center;
+  gap: 5px;
+  margin-bottom: 0.45px;
+  width: 127px;
+}
+
+.frame-1244831321 .rectangle-1283-10 {
+  background-color: var(--neutral500);
+  border-radius: 18.18px;
+  height: 6px;
+  width: 127px;
+}
+
+.frame-1244831321 .rectangle-1284-7 {
+  height: 6px;
+  width: 97px;
+}
+
+.frame-1244831321 .overlap-group7-1 {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  border-radius: 13.92px;
+  box-shadow: 0px 9.28px 18.56px #14132a0a , 0px -1.55px 3.09px #14132a05 , 0px 2.32px 10.82px #4939ff08;
+  display: flex;
+  gap: 41px;
+  height: 84px;
+  margin-left: 24.0px;
+  margin-top: 3px;
+  min-width: 1088px;
+  padding: 20.9px 24.0px;
+}
+
+.frame-1244831321 .mail-container-3 {
+  align-items: center;
+  background-color: var(--titan-white);
+  border-radius: 26.29px;
+  display: flex;
+  gap: 13px;
+  height: 39px;
+  margin-top: 0.12px;
+  min-width: 732px;
+  padding: 6.6px 13.9px;
+}
+
+.frame-1244831321 .mail-1-3 {
+  align-self: flex-end;
+  height: 25px;
+  width: 25px;
+}
+
+.frame-1244831321 .insira-seu-e-mail-aqui-3 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 13.8px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-top: 1.86px;
+  min-height: 21px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .frame-50-3 {
+  align-items: flex-start;
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 38.66px;
+  display: flex;
+  height: 39px;
+  min-width: 251px;
+  padding: 11.6px 21.6px;
+}
+
+.frame-1244831321 .inscreva-se-em-nossa-newsletter-1 {
+  color: var(--neutral-colors--100);
+  font-family: var(--font-family-dm_sans);
+  font-size: 12.4px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.frame-1244831321 .group-4192-8 {
+  gap: 5px;
+  left: 1166px;
+  position: absolute;
+  top: 131px;
+  width: 168px;
+}
+
+.frame-1244831321 .rectangle-1283-11 {
+  background-color: var(--neutral500);
+  border-radius: 18.18px;
+  height: 6px;
+  width: 168px;
+}
+
+.frame-1244831321 .rectangle-1284-8 {
+  height: 6px;
+  margin-left: 0;
+  width: 97px;
+}
+
+.frame-1244831321 .avatar-sophie-moore-circle-small {
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 36px;
+}
+
+.frame-1244831321 .group-35573 {
+  height: 17px;
+  left: 289px;
+  position: absolute;
+  width: 17px;
+}
+
+.frame-1244831321 .group-4192 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 17px;
+}
+
+.frame-1244831321 .group-4194 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 36px;
+  left: 17px;
+  position: absolute;
+  top: 15px;
+}
+
+.frame-1244831321 .mask-group {
+  height: 36px;
+  width: 36px;
+}
+
+.frame-1244831321 .primary-btn {
+  align-items: flex-start;
+  display: flex;
+  height: 87px;
+  min-width: 297px;
+}
+
+.frame-1244831321 .rectangle-1284 {
+  background-color: var(--neutral300);
+  border-radius: 18.18px;
+}
+
+.frame-1244831321 .rectangle-1314 {
+  background-color: var(--neutral-colors--100);
+  border: 0.73px solid;
+  border-color: var(--neutral300);
+  border-radius: 10.2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.frame-1244831321 .shadow {
+  background-color: var(--red);
+  position: absolute;
+}
+/* screen - iphone-16-plus-6 */
+
+.iphone-16-plus-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 932px;
+  justify-content: center;
+  overflow: hidden;
+  width: 430px;
+}
+
+.iphone-16-plus-6 .overlap-group4 {
+  height: 951px;
+  margin-top: -9px;
+  position: relative;
+  width: 450px;
+  z-index: 1;
+}
+
+.iphone-16-plus-6 .card {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+}
+
+.iphone-16-plus-6 .card-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5.26px;
+  height: 430px;
+  margin-left: -250.50px;
+  margin-right: -250.50px;
+  position: relative;
+  transform: rotate(90.00deg);
+  width: 931px;
+}
+
+.iphone-16-plus-6 .image {
+  align-self: stretch;
+  height: 931px;
+  margin-bottom: -250.50px;
+  margin-top: -250.50px;
+  position: relative;
+  transform: rotate(-90.00deg);
+  width: 100%;
+}
+
+.iphone-16-plus-6 .group-1244831299 {
+  height: 600px;
+  left: 10px;
+  position: absolute;
+  top: 215px;
+  width: 428px;
+}
+
+.iphone-16-plus-6 .horizontal-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+  width: 430px;
+}
+
+.iphone-16-plus-6 .group-1244831271 {
+  height: 116px;
+  position: relative;
+  width: 430px;
+}
+
+.iphone-16-plus-6 .overlap-group3 {
+  height: 116px;
+  position: relative;
+}
+
+.iphone-16-plus-6 .text-input {
+  background-color: var(--neutral-colors--100);
+  filter: blur(10px);
+  height: 115px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: 430px;
+}
+
+.iphone-16-plus-6 .text-input.bp1-animate-enter50 {
+  animation: bp1-animate-enter50-frames 1.00s ease-in 0.00s 1 normal forwards;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter50-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.iphone-16-plus-6 .component-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 8px;
+  min-width: 420px;
+  position: absolute;
+  top: 67px;
+}
+
+.iphone-16-plus-6 .overlap-group2 {
+  height: 30px;
+  position: relative;
+  width: 420px;
+}
+
+.iphone-16-plus-6 .group-1244831261 {
+  height: 28px;
+  left: 105px;
+  opacity: 0;
+  position: absolute;
+  top: 2px;
+  width: 95px;
+}
+
+.iphone-16-plus-6 .group-1244831261.bp1-animate-enter52 {
+  animation: bp1-animate-enter52-frames 1.00s ease-in-out 1.20s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter52-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .primary-btn {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  min-width: 95px;
+  padding: 8.4px 31.8px;
+}
+
+.iphone-16-plus-6 .button-text {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 10px;
+  min-width: 30px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .button-text.bp1-animate-enter51 {
+  animation: bp1-animate-enter51-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter51-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .button-text:hover {
+  color: #FF4682
+}
+
+.iphone-16-plus-6 .group-1244831262 {
+  height: 28px;
+  left: 179px;
+  opacity: 0;
+  position: absolute;
+  top: 2px;
+  width: 95px;
+}
+
+.iphone-16-plus-6 .group-1244831262.bp1-animate-enter54 {
+  animation: bp1-animate-enter54-frames 1.00s ease-in-out 1.40s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter54-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .primary-btn-1 {
+  padding: 8.4px 18.8px;
+}
+
+.iphone-16-plus-6 .button-text-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 10px;
+  min-width: 57px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .button-text-1.bp1-animate-enter53 {
+  animation: bp1-animate-enter53-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter53-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .button-text-1:hover {
+  color: #FF4682
+}
+
+.iphone-16-plus-6 .group-1244831263 {
+  height: 28px;
+  left: 253px;
+  opacity: 0;
+  position: absolute;
+  top: 2px;
+  width: 95px;
+}
+
+.iphone-16-plus-6 .group-1244831263.bp1-animate-enter56 {
+  animation: bp1-animate-enter56-frames 1.00s ease-in-out 1.60s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter56-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .overlap-group {
+  height: 28px;
+  position: relative;
+}
+
+.iphone-16-plus-6 .primary-btn-2 {
+  left: 0;
+  padding: 8.4px 23.8px;
+  position: absolute;
+  top: 0;
+}
+
+.iphone-16-plus-6 .button-text-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 10px;
+  min-width: 47px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .button-text-2.bp1-animate-enter55 {
+  animation: bp1-animate-enter55-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter55-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .button-text-2:hover {
+  color: #FF4682
+}
+
+.iphone-16-plus-6 .vector {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}
+
+.iphone-16-plus-6 .group-1244831265 {
+  height: 28px;
+  left: 333px;
+  opacity: 0;
+  position: absolute;
+  top: 2px;
+  width: 87px;
+}
+
+.iphone-16-plus-6 .group-1244831265.bp1-animate-enter58 {
+  animation: bp1-animate-enter58-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .overlap-group1 {
+  border-radius: 49.6px;
+  height: 24px;
+  left: 6px;
+  position: relative;
+  top: 2px;
+  width: 75px;
+}
+
+.iphone-16-plus-6 .rectangle-39897 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 49.6px;
+  cursor: pointer;
+  height: 24px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.iphone-16-plus-6 .rectangle-39897.bp1-animate-enter57 {
+  animation: bp1-animate-enter57-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.iphone-16-plus-6 .rectangle-39897:hover {
+  background-color: #FF4682
+}
+
+.iphone-16-plus-6 .button-text-3 {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .group-1244831295 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 18px;
+  position: fixed;
+  top: 141px;
+  width: 400px;
+  z-index: 2;
+}
+
+.iphone-16-plus-6 .fique-em-dia-com-nossas-atualizaes {
+  align-self: stretch;
+  color: var(--primary-colorscolor-1);
+  font-family: var(--font-family-dm_sans);
+  font-size: 12.2px;
+  font-weight: 900;
+  letter-spacing: 1.22px;
+  line-height: Truepx;
+  margin-top: -0.34px;
+  position: relative;
+  text-align: center;
+}
+
+.iphone-16-plus-6 .insira-seu-e-mail-e {
+  align-self: stretch;
+  font-size: 15.5px;
+  font-weight: 700;
+  letter-spacing: 1.36px;
+  position: relative;
+  text-align: center;
+}
+
+.iphone-16-plus-6 .group-1244831336 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 22px;
+  position: fixed;
+  top: 842px;
+  width: 387px;
+  z-index: 3;
+}
+
+.iphone-16-plus-6 .divider-component-header {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  width: 100%;
+}
+
+.iphone-16-plus-6 .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--neutral-colors--100);
+  border-radius: 20px;
+  box-shadow: 0px 9.31px 18.63px #14132a0a , 0px -1.55px 3.1px #14132a05 , 0px 2.33px 10.86px #4939ff08;
+  display: flex;
+  gap: 7px;
+  height: 51px;
+  left: 10px;
+  min-width: 369px;
+  padding: 10px 9px;
+  position: relative;
+  top: 5px;
+}
+
+.iphone-16-plus-6 .mail-container {
+  align-items: flex-start;
+  background-color: var(--titan-white);
+  border-radius: 13px;
+  display: flex;
+  gap: 7px;
+  height: 30px;
+  min-width: 225px;
+  padding: 5px 6px;
+}
+
+.iphone-16-plus-6 .mail-1 {
+  align-self: center;
+  height: 18px;
+  margin-bottom: 0.06px;
+  width: 18px;
+}
+
+.iphone-16-plus-6 .insira-seu-e-mail-aqui {
+  font-size: 10.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 19px;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .frame-50 {
+  align-items: flex-start;
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 12px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 117px;
+  padding: 9.1px 11.7px;
+}
+
+.iphone-16-plus-6 .assine-nossa-newsletter {
+  color: var(--neutral-colors--100);
+  font-family: var(--font-family-dm_sans);
+  font-size: 7.6px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 9px;
+  white-space: nowrap;
+}
+
+.iphone-16-plus-6 .insira-seu-e-mail {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  line-height: Truepx;
+}
+
+.iphone-16-plus-6 .primary-btn-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  min-width: 95px;
+}
+/* screen - macbook-pro-16u34-19-all-breakpoints */
+
+.macbook-pro-16u34-19-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  display: flex;
+  height: 1119px;
+  overflow: hidden;
+  width: 1728px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .fundo {
+  align-items: flex-start;
+  display: flex;
+  height: 2402px;
+  justify-content: flex-end;
+  left: -836px;
+  min-width: 3399px;
+  padding: 250px 835.3px;
+  position: fixed;
+  top: -250px;
+  z-index: 1;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .horizontal-container-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 155px;
+  left: -2px;
+  min-width: 1765px;
+  position: fixed;
+  top: -11px;
+  z-index: 5;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .text-input-1 {
+  background-color: var(--neutral-colors--100);
+  filter: blur(10px);
+  height: 155px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 1765px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .text-input-1.bp3-animate-enter56 {
+  animation: bp3-animate-enter56-frames 1.00s ease-in 0.00s 1 normal forwards;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter56-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831261-1 {
+  height: 71px;
+  left: 408px;
+  opacity: 0;
+  position: absolute;
+  top: 41px;
+  width: 245px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831261-1.bp3-animate-enter58 {
+  animation: bp3-animate-enter58-frames 1.00s ease-in-out 1.20s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .primary-btn-3 {
+  padding: 21.7px 85.0px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-4 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 74px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-4.bp3-animate-enter57 {
+  animation: bp3-animate-enter57-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-4:hover {
+  color: #FF4682
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831262-1 {
+  height: 71px;
+  left: 726px;
+  opacity: 0;
+  position: absolute;
+  top: 41px;
+  width: 245px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831262-1.bp3-animate-enter60 {
+  animation: bp3-animate-enter60-frames 1.00s ease-in-out 1.40s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .primary-btn-4 {
+  justify-content: flex-end;
+  padding: 21.7px 50.7px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-5 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 143px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-5.bp3-animate-enter59 {
+  animation: bp3-animate-enter59-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-5:hover {
+  color: #FF4682
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831263-1 {
+  height: 72px;
+  left: 1038px;
+  opacity: 0;
+  position: absolute;
+  top: 41px;
+  width: 258px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831263-1.bp3-animate-enter62 {
+  animation: bp3-animate-enter62-frames 1.00s ease-in-out 1.60s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group-2 {
+  height: 72px;
+  position: relative;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-39898-1 {
+  background-color: var(--titan-white);
+  border-radius: 34px;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 258px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .primary-btn-5 {
+  justify-content: flex-end;
+  left: 7px;
+  padding: 21.7px 62.7px;
+  position: absolute;
+  top: 0;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-6 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 119px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-6.bp3-animate-enter61 {
+  animation: bp3-animate-enter61-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-6:hover {
+  color: #FF4682
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-5 {
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 74px;
+  left: 56px;
+  opacity: 0;
+  position: absolute;
+  top: 36px;
+  width: 293px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-5.bp3-animate-enter63 {
+  animation: bp3-animate-enter63-frames 1.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter63-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831265-1 {
+  height: 71px;
+  left: 1406px;
+  opacity: 0;
+  position: absolute;
+  top: 40px;
+  width: 224px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831265-1.bp3-animate-enter65 {
+  animation: bp3-animate-enter65-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group1-3 {
+  border-radius: 127.42px;
+  height: 71px;
+  position: relative;
+  top: 1px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-39897-1 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 127.42px;
+  cursor: pointer;
+  height: 71px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 224px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-39897-1.bp3-animate-enter64 {
+  animation: bp3-animate-enter64-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-39897-1:hover {
+  background-color: #FF4682
+}
+
+.macbook-pro-16u34-19-all-breakpoints .button-text-7 {
+  left: 49px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831185 {
+  align-items: flex-start;
+  display: flex;
+  height: 675px;
+  left: 149px;
+  min-width: 1358px;
+  position: fixed;
+  top: 292px;
+  z-index: 2;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group6 {
+  height: 675px;
+  position: relative;
+  width: 1358px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-10 {
+  -webkit-backdrop-filter: blur(30.23px) brightness(100%);
+  backdrop-filter: blur(30.23px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.36) 0%, rgba(196, 196, 196, 0.06) 100%);
+  border: 3.02px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 249.82, 203.16, 0.76) 57.29%, rgba(255, 57.38, 57.38, 0.1) 71.88%, rgba(255, 255, 255, 0.85) 100%) 1;
+  border-radius: 41.6px;
+  height: 600px;
+  left: 214px;
+  position: absolute;
+  top: 30px;
+  width: 932px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .clipboard {
+  height: 283px;
+  left: 1075px;
+  position: absolute;
+  top: 338px;
+  width: 283px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .ativo-2-1 {
+  left: 294px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-container {
+  height: 675px;
+  margin-top: 0;
+  position: relative;
+  width: 335px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group1-2 {
+  height: 675px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-1 {
+  height: 675px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-2 {
+  height: 672px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 2px;
+  width: 326px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-3 {
+  height: 665px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 318px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group {
+  height: 165px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 335px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1 {
+  align-items: flex-end;
+  background-image: url(../img/vector-63.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  left: 129px;
+  min-width: 74px;
+  padding: 6.0px 9.0px;
+  position: absolute;
+  top: 26px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-2 {
+  align-items: flex-end;
+  background-image: url(../img/vector-64.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 9px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group-1 {
+  background-image: url(../img/rectangle@2x.png);
+  background-size: 100% 100%;
+  height: 9px;
+  margin-bottom: -0.28px;
+  position: relative;
+  width: 9px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-6 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .camera {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-4 {
+  background-blend-mode: screen;
+  height: 2px;
+  left: 5px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831252 {
+  height: 643px;
+  left: 19px;
+  position: absolute;
+  top: 16px;
+  width: 297px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .ativo-2-2 {
+  left: 696px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-3 {
+  align-items: flex-end;
+  background-image: url(../img/vector-71.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 9px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .vector-7 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .camera-1 {
+  height: 5px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-container-1 {
+  border-radius: 26.75px;
+  height: 321px;
+  left: 0;
+  position: absolute;
+  top: 76px;
+  width: 255px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group-3 {
+  border-radius: 26.75px;
+  height: 321px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .shadow-1 {
+  border-radius: 25.03px;
+  box-shadow: 0px 36.34px 92.43px #1f248917;
+  height: 300px;
+  left: 8px;
+  top: 12px;
+  width: 239px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1310 {
+  background-color: var(--neutral-colors--100);
+  border: 0.94px solid;
+  border-color: var(--neutral300);
+  border-radius: 26.75px;
+  height: 321px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-39177 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 23px;
+  min-height: 235px;
+  position: absolute;
+  top: 43px;
+  width: 209px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1283 {
+  background-color: var(--neutral500);
+  border-radius: 31.39px;
+  height: 13px;
+  margin-left: 0;
+  width: 98px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-39176 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  margin-right: 0;
+  margin-top: 26px;
+  min-width: 209px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-4434 {
+  background-color: var(--mischka);
+  border-radius: 28.13px;
+  height: 12px;
+  width: 31px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-443 {
+  background-color: var(--mischka);
+  border-radius: 28.13px;
+  height: 12px;
+  margin-top: 0;
+  width: 31px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-39175 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-right: 0;
+  margin-top: 23px;
+  min-height: 162px;
+  width: 206px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-391 {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  margin-left: 0;
+  min-width: 206px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-4428 {
+  background-color: var(--neutral500);
+  border-radius: 5.63px;
+  height: 28px;
+  opacity: 0.15;
+  width: 28px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-44 {
+  background-color: var(--neutral500);
+  border-radius: 5.63px;
+  height: 28px;
+  margin-top: 0;
+  opacity: 0.15;
+  width: 28px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-39174 {
+  align-items: flex-start;
+  background-color: var(--red);
+  border-radius: 5.63px;
+  box-shadow: 0px 3.75px 11.25px #4939ff29;
+  display: flex;
+  margin-top: 0;
+  min-width: 28px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-4433 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 5.63px;
+  height: 28px;
+  width: 28px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1000000918 {
+  height: 166px;
+  left: 44px;
+  position: absolute;
+  top: 440px;
+  width: 248px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group5 {
+  border-radius: 19.48px;
+  height: 273px;
+  left: 1094px;
+  position: absolute;
+  top: 48px;
+  width: 260px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .shadow-2 {
+  border-radius: 25.15px;
+  box-shadow: 0px 36.52px 92.89px #1f248924;
+  height: 255px;
+  left: 10px;
+  top: 9px;
+  width: 240px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1272 {
+  background-color: var(--neutral-colors--100);
+  border-radius: 19.48px;
+  height: 273px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 260px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-39148 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 21px;
+  min-height: 230px;
+  position: absolute;
+  top: 21px;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group-4 {
+  border-radius: 13.19px;
+  height: 70px;
+  position: relative;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .shadow-3 {
+  border-radius: 9.13px;
+  box-shadow: 0px 3.64px 10.07px #1f248914;
+  height: 64px;
+  left: 5px;
+  top: 3px;
+  width: 204px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1314 {
+  background-color: var(--neutral-colors--100);
+  border: 0.94px solid;
+  border-color: var(--neutral300);
+  border-radius: 13.19px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-35573 {
+  height: 18px;
+  left: 181px;
+  position: absolute;
+  top: 13px;
+  width: 18px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4194 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 39px;
+  left: 12px;
+  min-width: 152px;
+  position: absolute;
+  top: 15px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .avatar-sophie-moore-circle-small {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952.svg);
+  background-size: 100% 100%;
+  display: flex;
+  margin-top: 0;
+  min-width: 39px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .mask-group {
+  height: 39px;
+  margin-bottom: 0;
+  width: 39px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4192 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 0;
+  min-height: 19px;
+  width: 105px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1283-1 {
+  width: 62px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1284 {
+  background-color: var(--neutral300);
+  border-radius: 23.51px;
+  height: 6px;
+  margin-left: 0;
+  width: 105px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group1-4 {
+  border-radius: 13.19px;
+  height: 71px;
+  margin-left: 0;
+  position: relative;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .shadow {
+  background-color: var(--red);
+  border-radius: 9.13px;
+  box-shadow: 0px 5.04px 9.38px #1f248914;
+  height: 64px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 204px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1314-1 {
+  background-color: var(--neutral-colors--100);
+  border: 0.94px solid;
+  border-color: var(--neutral300);
+  border-radius: 13.19px;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4194-1 {
+  min-width: 147px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .avatar-sophie-moore-circle-small-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-952-1.svg);
+}
+
+.macbook-pro-16u34-19-all-breakpoints .mask-group-1 {
+  height: 39px;
+  width: 39px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4192-1 {
+  padding: 0 0.0px;
+  width: 100px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1283-2 {
+  width: 100px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1284-1 {
+  width: 40px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .overlap-group2-1 {
+  border-radius: 13.19px;
+  height: 70px;
+  margin-left: 0;
+  position: relative;
+  width: 217px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4194-2 {
+  min-width: 116px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .avatar-sophie-moore-circle-small-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952-2.svg);
+  margin-top: 0;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4192-2 {
+  width: 69px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1283-3 {
+  width: 40px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1284-2 {
+  margin-left: 0;
+  width: 69px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .divider-component-header-1 {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  border-radius: 18px;
+  box-shadow: 0px 12px 24px #14132a0a , 0px -2px 4px #14132a05 , 0px 3px 14px #4939ff08;
+  display: flex;
+  gap: 29px;
+  height: 108px;
+  justify-content: flex-end;
+  left: 208px;
+  min-width: 1242px;
+  padding: 27px 41.6px;
+  position: fixed;
+  top: 979px;
+  z-index: 4;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .mail-container-1 {
+  align-items: center;
+  background-color: var(--titan-white);
+  border-radius: 34px;
+  display: flex;
+  gap: 17px;
+  height: 51px;
+  margin-top: 0;
+  min-width: 788px;
+  padding: 9.0px 18px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .mail-1-1 {
+  align-self: flex-end;
+  height: 32px;
+  width: 32px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .insira-seu-e-mail-aqui-1 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 17.8px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-top: 1.0px;
+  min-width: 185px;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .frame-50-1 {
+  align-items: flex-start;
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 50px;
+  display: flex;
+  height: 51px;
+  min-width: 324px;
+  padding: 15px 28px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .preview-cloneable {
+  color: var(--neutral-colors--100);
+  font-family: var(--font-family-dm_sans);
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: Truepx;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-1244831295-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 281px;
+  min-height: 98px;
+  position: fixed;
+  top: 188px;
+  width: 1096px;
+  z-index: 3;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .fique-em-dia-com-nossas-atualizaes-1 {
+  color: var(--primary-colorscolor-1);
+  font-family: var(--font-family-dm_sans);
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 3.00px;
+  line-height: Truepx;
+  margin-right: 2.31px;
+  min-height: 34px;
+  min-width: 755px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .insira-seu-e-mail-e-1 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 45.9px;
+  font-weight: 700;
+  letter-spacing: 4.00px;
+  line-height: Truepx;
+  margin-right: 4.0px;
+  min-height: 57px;
+  min-width: 1092px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .ativo-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 675px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 335px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .avatar-sophie-moore-circle-small-3 {
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 39px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4192-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 0;
+  min-height: 19px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .group-4194-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 39px;
+  left: 12px;
+  position: absolute;
+  top: 16px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .primary-btn {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  min-width: 245px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1283-4 {
+  background-color: var(--neutral500);
+  border-radius: 23.51px;
+  height: 6px;
+  margin-left: 0;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .rectangle-1284-3 {
+  background-color: var(--neutral300);
+  border-radius: 23.51px;
+  height: 6px;
+}
+
+.macbook-pro-16u34-19-all-breakpoints .shadow-4 {
+  background-color: var(--red);
+  position: absolute;
+}
+/* screen - novidades */
+
+.novidades {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  display: flex;
+  height: 932px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.novidades .horizontal-container-2 {
+  align-items: flex-end;
+  border: 1px dashed;
+  border-color: var(--medium-purple);
+  border-radius: 5px;
+  display: flex;
+  height: 175px;
+  left: -22px;
+  overflow: hidden;
+  padding: 0 20px;
+  position: fixed;
+  top: -31px;
+  width: 1805px;
+  z-index: 2;
+}
+
+.novidades .property-1-default {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 1406px;
+}
+
+.novidades .overlap-group3-1 {
+  height: 144px;
+  margin-bottom: -0.05px;
+  position: relative;
+  width: 1406px;
+}
+
+.novidades .text-input-2 {
+  background-color: var(--neutral-colors--100);
+  filter: blur(10px);
+  height: 144px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 1406px;
+}
+
+.novidades .text-input-2.bp2-animate-enter56 {
+  animation: bp2-animate-enter56-frames 1.00s ease-in 0.00s 1 normal forwards;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter56-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.novidades .group-1244831301 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 77px;
+  left: 30px;
+  min-width: 1222px;
+  position: absolute;
+  top: 25px;
+}
+
+.novidades .vector-13 {
+  cursor: pointer;
+  display: block;
+  filter: blur(10px);
+  height: 74px;
+  opacity: 0;
+  width: 293px;
+}
+
+.novidades .vector-13.bp2-animate-enter63 {
+  animation: bp2-animate-enter63-frames 1.00s ease-in-out 1.00s 1 normal forwards;
+  display: block;
+  filter: blur(10px);
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter63-frames {
+  from{opacity: 0;
+filter: blur(10px);
+}
+to{opacity: 1;
+filter: none;
+}
+}
+
+.novidades .group-1244831261-2 {
+  height: 71px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: 245px;
+}
+
+.novidades .group-1244831261-2.bp2-animate-enter58 {
+  animation: bp2-animate-enter58-frames 1.00s ease-in-out 1.20s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter58-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .primary-btn-6 {
+  padding: 21.7px 85.0px;
+}
+
+.novidades .button-text-8 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 74px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.novidades .button-text-8.bp2-animate-enter57 {
+  animation: bp2-animate-enter57-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter57-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .button-text-8:hover {
+  color: #FF4682
+}
+
+.novidades .group-1244831262-2 {
+  height: 71px;
+  left: 231px;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: 245px;
+}
+
+.novidades .group-1244831262-2.bp2-animate-enter60 {
+  animation: bp2-animate-enter60-frames 1.00s ease-in-out 1.40s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter60-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .primary-btn-7 {
+  justify-content: flex-end;
+  padding: 21.7px 50.7px;
+}
+
+.novidades .button-text-9 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 143px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.novidades .button-text-9.bp2-animate-enter59 {
+  animation: bp2-animate-enter59-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter59-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .button-text-9:hover {
+  color: #FF4682
+}
+
+.novidades .group-1244831263-2 {
+  height: 72px;
+  left: 461px;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+  width: 245px;
+}
+
+.novidades .group-1244831263-2.bp2-animate-enter62 {
+  animation: bp2-animate-enter62-frames 1.00s ease-in-out 1.60s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter62-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .overlap-group-7 {
+  height: 72px;
+  position: relative;
+}
+
+.novidades .rectangle-39898-2 {
+  background-color: var(--titan-white);
+  border-radius: 34.01px;
+  height: 71px;
+  left: 22px;
+  position: absolute;
+  top: 1px;
+  width: 199px;
+}
+
+.novidades .primary-btn-8 {
+  justify-content: flex-end;
+  left: 0;
+  padding: 21.7px 62.7px;
+  position: absolute;
+  top: 0;
+}
+
+.novidades .button-text-10 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 26px;
+  min-width: 119px;
+  opacity: 0;
+  text-align: center;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.novidades .button-text-10.bp2-animate-enter61 {
+  animation: bp2-animate-enter61-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter61-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .button-text-10:hover {
+  color: #FF4682
+}
+
+.novidades .group-1244831265-2 {
+  height: 71px;
+  left: 692px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.novidades .group-1244831265-2.bp2-animate-enter65 {
+  animation: bp2-animate-enter65-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter65-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .overlap-group1-6 {
+  border-radius: 127.46px;
+  height: 71px;
+  position: relative;
+  top: 1px;
+}
+
+.novidades .rectangle-39897-2 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 127.46px;
+  cursor: pointer;
+  height: 71px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 224px;
+}
+
+.novidades .rectangle-39897-2.bp2-animate-enter64 {
+  animation: bp2-animate-enter64-frames 1.00s ease-in-out 1.80s 1 normal forwards;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter64-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.novidades .rectangle-39897-2:hover {
+  background-color: #FF4682
+}
+
+.novidades .button-text-11 {
+  cursor: pointer;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.novidades .frame-1244831311 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: -17px;
+  padding: 10px;
+  position: fixed;
+  top: -20px;
+  width: 1791px;
+  z-index: 1;
+}
+
+.novidades .card-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.novidades .image-1 {
+  align-self: stretch;
+  height: 932px;
+  position: relative;
+  width: 100%;
+}
+
+.novidades .group-1244831310 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 115px;
+  min-height: 721px;
+  padding: 0.0px 0;
+  position: fixed;
+  top: 178px;
+  width: 1050px;
+  z-index: 3;
+}
+
+.novidades .group-1244831295-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 20.6px;
+  min-height: 76px;
+  padding: 0 0.0px;
+  width: 867px;
+}
+
+.novidades .fique-em-dia-com-nossas-atualizaes-2 {
+  color: var(--primary-colorscolor-1);
+  font-family: var(--font-family-dm_sans);
+  font-size: 23.2px;
+  font-weight: 900;
+  letter-spacing: 2.32px;
+  line-height: Truepx;
+  margin-right: 21.12px;
+  min-height: 26px;
+  min-width: 584px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.novidades .insira-seu-e-mail-e-2 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 35.5px;
+  font-weight: 700;
+  letter-spacing: 3.09px;
+  line-height: Truepx;
+  margin-right: 4.0px;
+  min-height: 44px;
+  min-width: 863px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.novidades .overlap-group6-1 {
+  height: 522px;
+  margin-right: 0;
+  position: relative;
+  width: 1050px;
+}
+
+.novidades .rectangle-10-1 {
+  -webkit-backdrop-filter: blur(23.37px) brightness(100%);
+  backdrop-filter: blur(23.37px) brightness(100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.36) 0%, rgba(196, 196, 196, 0.06) 100%);
+  border: 2.34px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 249.82, 203.16, 0.76) 57.29%, rgba(255, 57.38, 57.38, 0.1) 71.88%, rgba(255, 255, 255, 0.85) 100%) 1;
+  border-radius: 32.17px;
+  height: 464px;
+  left: 166px;
+  position: absolute;
+  top: 23px;
+  width: 721px;
+}
+
+.novidades .clipboard-1 {
+  height: 219px;
+  left: 831px;
+  position: absolute;
+  top: 261px;
+  width: 219px;
+}
+
+.novidades .ativo-2-1-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 522px;
+  left: 227px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.novidades .group-container-2 {
+  height: 522px;
+  margin-top: 0;
+  position: relative;
+  width: 259px;
+}
+
+.novidades .overlap-group1-5 {
+  height: 522px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.novidades .vector-8 {
+  height: 522px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.novidades .vector-9 {
+  height: 520px;
+  left: 3px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 1px;
+  width: 252px;
+}
+
+.novidades .vector-10 {
+  height: 514px;
+  left: 7px;
+  position: absolute;
+  top: 4px;
+  width: 246px;
+}
+
+.novidades .group-4 {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 259px;
+}
+
+.novidades .group-5 {
+  align-items: flex-end;
+  background-image: url(../img/vector-63.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  left: 100px;
+  min-width: 57px;
+  padding: 4.7px 7.0px;
+  position: absolute;
+  top: 20px;
+}
+
+.novidades .group-6 {
+  align-items: flex-end;
+  background-image: url(../img/vector-49.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 7px;
+}
+
+.novidades .overlap-group-5 {
+  background-image: url(../img/rectangle-1@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  margin-bottom: -0.22px;
+  position: relative;
+  width: 7px;
+}
+
+.novidades .vector-11 {
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.novidades .camera-2 {
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+
+.novidades .vector-12 {
+  background-blend-mode: screen;
+  height: 1px;
+  left: 4px;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.novidades .group-1244831252-1 {
+  height: 498px;
+  left: 15px;
+  position: absolute;
+  top: 12px;
+  width: 230px;
+}
+
+.novidades .ativo-2-2-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 522px;
+  left: 538px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+  width: 259px;
+}
+
+.novidades .group-7 {
+  align-items: flex-end;
+  background-image: url(../img/vector-85.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  left: 100px;
+  min-width: 57px;
+  padding: 4.7px 7.0px;
+  position: absolute;
+  top: 20px;
+}
+
+.novidades .group-8 {
+  align-items: flex-end;
+  background-image: url(../img/vector-56.svg);
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 7px;
+}
+
+.novidades .group-container-4 {
+  border-radius: 20.68px;
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 197px;
+}
+
+.novidades .overlap-group-8 {
+  border-radius: 20.68px;
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.novidades .shadow-4 {
+  border-radius: 19.35px;
+  box-shadow: 0px 28.1px 71.47px #1f248917;
+  height: 232px;
+  left: 6px;
+  top: 9px;
+  width: 185px;
+}
+
+.novidades .rectangle-1310-1 {
+  background-color: var(--neutral-colors--100);
+  border: 0.72px solid;
+  border-color: var(--neutral300);
+  border-radius: 20.68px;
+  height: 248px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 197px;
+}
+
+.novidades .group-39177-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 18px;
+  min-height: 181px;
+  position: absolute;
+  top: 33px;
+  width: 162px;
+}
+
+.novidades .rectangle-1283-4 {
+  border-radius: 24.27px;
+  height: 10px;
+  width: 76px;
+}
+
+.novidades .group-39176-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 11px;
+  margin-right: 0;
+  margin-top: 20px;
+  min-width: 162px;
+}
+
+.novidades .rectangle-4434-1 {
+  align-self: flex-start;
+  background-color: var(--mischka);
+  border-radius: 21.75px;
+  height: 9px;
+  width: 24px;
+}
+
+.novidades .rectangle-443-1 {
+  background-color: var(--mischka);
+  border-radius: 21.75px;
+  height: 9px;
+  margin-bottom: 0;
+  width: 24px;
+}
+
+.novidades .group-39175-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-right: 0;
+  margin-top: 17px;
+  min-height: 125px;
+  width: 159px;
+}
+
+.novidades .group-391-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 13px;
+  margin-left: 0;
+  min-width: 159px;
+}
+
+.novidades .rectangle-4428-1 {
+  background-color: var(--neutral500);
+  border-radius: 4.35px;
+  height: 21px;
+  opacity: 0.15;
+  width: 21px;
+}
+
+.novidades .rectangle-44-1 {
+  margin-top: 0;
+}
+
+.novidades .group-39169 {
+  align-items: flex-end;
+  display: flex;
+  gap: 13px;
+  margin-left: 0;
+  min-width: 159px;
+}
+
+.novidades .rectangle-44-2 {
+  margin-bottom: 0;
+}
+
+.novidades .group-39170 {
+  align-items: flex-start;
+  display: flex;
+  gap: 13px;
+  justify-content: flex-end;
+  margin-left: 0;
+  min-width: 159px;
+}
+
+.novidades .group-39174-1 {
+  align-items: flex-start;
+  background-color: var(--red);
+  border-radius: 4.35px;
+  box-shadow: 0px 2.9px 8.7px #4939ff29;
+  display: flex;
+  margin-top: 0;
+  min-width: 21px;
+}
+
+.novidades .rectangle-4433-1 {
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 4.35px;
+  height: 21px;
+  width: 21px;
+}
+
+.novidades .group-1000000918-1 {
+  height: 128px;
+  left: 34px;
+  position: absolute;
+  top: 340px;
+  width: 192px;
+}
+
+.novidades .overlap-group5-1 {
+  border-radius: 15.06px;
+  height: 211px;
+  left: 846px;
+  position: absolute;
+  top: 37px;
+  width: 201px;
+}
+
+.novidades .shadow-5 {
+  border-radius: 19.45px;
+  box-shadow: 0px 28.23px 71.82px #1f248924;
+  height: 197px;
+  left: 8px;
+  top: 7px;
+  width: 186px;
+}
+
+.novidades .rectangle-1272-1 {
+  background-color: var(--neutral-colors--100);
+  border-radius: 15.06px;
+  height: 211px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.novidades .group-39148-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 17px;
+  min-height: 178px;
+  position: absolute;
+  top: 17px;
+  width: 168px;
+}
+
+.novidades .overlap-group-6 {
+  border-radius: 10.2px;
+  height: 54px;
+  position: relative;
+  width: 168px;
+}
+
+.novidades .shadow-6 {
+  border-radius: 7.06px;
+  box-shadow: 0px 2.81px 7.79px #1f248914;
+  height: 49px;
+  left: 3px;
+  top: 2px;
+  width: 158px;
+}
+
+.novidades .rectangle-1314-2 {
+  height: 54px;
+}
+
+.novidades .group-35573-1 {
+  height: 14px;
+  left: 140px;
+  position: absolute;
+  top: 10px;
+  width: 14px;
+}
+
+.novidades .group-4194-3 {
+  min-width: 118px;
+  top: 11px;
+}
+
+.novidades .avatar-sophie-moore-circle-small-3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952-6.svg);
+}
+
+.novidades .mask-group-2 {
+  margin-bottom: 0;
+}
+
+.novidades .group-4192-3 {
+  margin-top: 0;
+  width: 81px;
+}
+
+.novidades .rectangle-1283-5 {
+  border-radius: 18.18px;
+  height: 5px;
+  width: 48px;
+}
+
+.novidades .rectangle-1284-3 {
+  width: 81px;
+}
+
+.novidades .overlap-group1-7 {
+  border-radius: 10.2px;
+  height: 55px;
+  position: relative;
+  width: 168px;
+}
+
+.novidades .shadow-7 {
+  border-radius: 7.06px;
+  box-shadow: 0px 3.9px 7.26px #1f248914;
+  height: 50px;
+  left: 3px;
+  top: 2px;
+  width: 158px;
+}
+
+.novidades .rectangle-1314-3 {
+  height: 55px;
+}
+
+.novidades .group-4194-4 {
+  min-width: 114px;
+  top: 12px;
+}
+
+.novidades .avatar-sophie-moore-circle-small-4 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-952-7.svg);
+}
+
+.novidades .group-4192-4 {
+  margin-bottom: 0;
+  width: 77px;
+}
+
+.novidades .rectangle-1283-6 {
+  border-radius: 18.18px;
+  height: 5px;
+  width: 77px;
+}
+
+.novidades .rectangle-1284-4 {
+  width: 31px;
+}
+
+.novidades .shadow-8 {
+  border-radius: 7.06px;
+  box-shadow: 0px 3.9px 7.26px #1f248914;
+  height: 49px;
+  left: 3px;
+  top: 2px;
+  width: 158px;
+}
+
+.novidades .group-4194-5 {
+  min-width: 90px;
+  top: 12px;
+}
+
+.novidades .avatar-sophie-moore-circle-small-5 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-952-8.svg);
+}
+
+.novidades .group-4192-5 {
+  margin-bottom: 0;
+  width: 54px;
+}
+
+.novidades .rectangle-1283-7 {
+  border-radius: 18.18px;
+  height: 5px;
+  width: 31px;
+}
+
+.novidades .rectangle-1284-5 {
+  width: 54px;
+}
+
+.novidades .divider-component-header-2 {
+  align-items: flex-start;
+  background-color: var(--neutral-colors--100);
+  border-radius: 13.92px;
+  box-shadow: 0px 9.28px 18.56px #14132a0a , 0px -1.55px 3.09px #14132a05 , 0px 2.32px 10.82px #4939ff08;
+  display: flex;
+  gap: 23px;
+  height: 84px;
+  justify-content: flex-end;
+  margin-left: 1.57px;
+  min-width: 960px;
+  padding: 20.9px 32.2px;
+}
+
+.novidades .mail-container-2 {
+  align-items: center;
+  background-color: var(--titan-white);
+  border-radius: 26.29px;
+  display: flex;
+  gap: 13px;
+  height: 39px;
+  min-width: 609px;
+  padding: 7.0px 13.9px;
+}
+
+.novidades .mail-1-2 {
+  align-self: flex-end;
+  height: 25px;
+  width: 25px;
+}
+
+.novidades .insira-seu-e-mail-aqui-2 {
+  color: var(--neutral800);
+  font-family: var(--font-family-dm_sans);
+  font-size: 13.8px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-top: 1.67px;
+  min-height: 21px;
+  min-width: 143px;
+  white-space: nowrap;
+}
+
+.novidades .frame-50-2 {
+  align-items: flex-start;
+  background-color: var(--primary-colorscolor-1);
+  border-radius: 38.66px;
+  display: flex;
+  height: 39px;
+  min-width: 251px;
+  padding: 11.6px 21.6px;
+}
+
+.novidades .inscreva-se-em-nossa-newsletter {
+  color: var(--neutral-colors--100);
+  font-family: var(--font-family-dm_sans);
+  font-size: 12.4px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: Truepx;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.novidades .avatar-sophie-moore-circle-small {
+  align-self: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  min-width: 30px;
+}
+
+.novidades .group-4192 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 14px;
+}
+
+.novidades .group-4194 {
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  height: 30px;
+  left: 9px;
+  position: absolute;
+}
+
+.novidades .mask-group {
+  height: 30px;
+  width: 30px;
+}
+
+.novidades .primary-btn {
+  align-items: flex-start;
+  display: flex;
+  height: 71px;
+  min-width: 245px;
+}
+
+.novidades .rectangle-1283 {
+  background-color: var(--neutral500);
+  margin-left: 0;
+}
+
+.novidades .rectangle-1284 {
+  background-color: var(--neutral300);
+  border-radius: 18.18px;
+  height: 5px;
+}
+
+.novidades .rectangle-1314 {
+  background-color: var(--neutral-colors--100);
+  border: 0.73px solid;
+  border-color: var(--neutral300);
+  border-radius: 10.2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 168px;
+}
+
+.novidades .rectangle-44 {
+  background-color: var(--neutral500);
+  border-radius: 4.35px;
+  height: 21px;
+  opacity: 0.15;
+  width: 21px;
+}
+
+.novidades .shadow {
+  background-color: var(--red);
+  position: absolute;
+}
+@media screen and (max-width: 1279px) {
+  .screen.macbook-pro-16u34-19-all-breakpoints { 
+    display: none;
+   }
+  .screen.novidades { 
+    display: none;
+   }
+  .screen.frame-1244831321 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1727px) {
+  .screen.iphone-16-plus-6 { 
+    display: none;
+   }
+  .screen.macbook-pro-16u34-19-all-breakpoints { 
+    display: none;
+   }
+  .screen.frame-1244831321 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1728px) and (max-width: 2540px) {
+  .screen.iphone-16-plus-6 { 
+    display: none;
+   }
+  .screen.novidades { 
+    display: none;
+   }
+  .screen.frame-1244831321 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 2541px) {
+  .screen.iphone-16-plus-6 { 
+    display: none;
+   }
+  .screen.macbook-pro-16u34-19-all-breakpoints { 
+    display: none;
+   }
+  .screen.novidades { 
+    display: none;
+   }
+}
