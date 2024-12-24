@@ -1,14 +1,7 @@
 {
   "name": "terapia-website",
   "version": "1.0.0",
-  "description": "Therapy website built with React",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "optimize-images": "node optimize-images.js"
-  },
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -20,6 +13,13 @@
     "styled-components": "^6.1.3",
     "web-vitals": "^2.1.4",
     "sharp": "^0.32.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "CI=false react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "optimize-images": "node optimize-images.js"
   },
   "eslintConfig": {
     "extends": [
