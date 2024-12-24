@@ -35,6 +35,15 @@
       "dest": "/index.html"
     }
   ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "framework": "create-react-app",
   "env": {
     "CI": "false",
     "DISABLE_ESLINT_PLUGIN": "true"
